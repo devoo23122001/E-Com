@@ -8,7 +8,7 @@ def index(request):
 
 
 def aboutus(request):
-    return HttpResponse("Shop Home")
+    return HttpResponse("About Us")
 
 
 def contact(request):
