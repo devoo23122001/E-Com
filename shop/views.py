@@ -12,7 +12,7 @@ def aboutus(request):
 
 
 def contact(request):
-    return HttpResponse("Shop Home")
+    return HttpResponse("Contact Us")
 
 
 def search(request):
